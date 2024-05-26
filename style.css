@@ -2,10 +2,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
 header{
     background-image:url(\header.png);
+    margin-bottom: 1%;
+    padding-top: 8%;
+    padding-bottom: 1%; 
     font-size: 170%;
     text-align: center;
     font-family: Fira Sans;
-    padding: 3%;
     color: #ffffff;
 }
 body{
@@ -21,12 +23,14 @@ p{
 }
 h1{
     font-size:200%;
-    margin: 0%;
 }
 .img-text{
     width : 30%;
     height: 30%;
     margin: 2%;
+}
+.zagolovok{
+    font-size: 135%;
 }
 .flex{
     display: flex;
