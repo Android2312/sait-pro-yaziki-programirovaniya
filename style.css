@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
 
 main{
-    background-image: url(/background.png);
+    background-image: url(\background.png);
     background-attachment: fixed;
     padding-top: 4%;
     background-size:cover;
@@ -18,7 +18,7 @@ h1{
     font-size:200%;
 }
 .header{
-    background-image: url(/header.png);
+    background-image: url(\header.png);
     padding-top: 7%;
     padding-bottom: 2%;
     background-size:cover;
